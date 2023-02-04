@@ -1,0 +1,8 @@
+github.com/cryptography-research-lab/go-cycle-string v0.0.2 h1:Wjz/mYX9htO137JcthAsmgwSpecni7hn4dgJFeN+jsk=
+github.com/cryptography-research-lab/go-cycle-string v0.0.2/go.mod h1:bO6fhBRSNFb1NRdv1kuIv6aLRU9aLcYK8jOZlbcjzjU=
+github.com/golang-infrastructure/go-iterator v0.0.0-20230112065131-1d82695f2289 h1:BYyz5BZuXOYSfEGyJKjMQKPsfEYazKixHFpyLOE/+3k=
+github.com/golang-infrastructure/go-iterator v0.0.0-20230112065131-1d82695f2289/go.mod h1:Guf14ZZ7f7qiE0YpZbUkICcm7LWc3nrn3/gDObT//WI=
+github.com/golang-infrastructure/go-shuffle v0.0.0-20230122134927-a3796de7f223 h1:UJb7w/DljC9OnsfaximKBkH/tCW5mY5sDMZPWv8xZyg=
+github.com/golang-infrastructure/go-shuffle v0.0.0-20230122134927-a3796de7f223/go.mod h1:GClvLXsnSroM9pINK2GcMrSmP8RHtFHT8NAqsVHEhA0=
+github.com/golang-infrastructure/go-variable-parameter v0.0.3 h1:+roJv+T/krkl5YMZtCXzdgDSP0RDWK0W1V2lTkpeDNA=
+github.com/golang-infrastructure/go-variable-parameter v0.0.3/go.mod h1:qEnCqgG04+EpGWqRXaNpKhu4JsP6xcT85WpJyS83Dcw=
